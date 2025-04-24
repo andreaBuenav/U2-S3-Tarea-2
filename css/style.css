@@ -1,0 +1,67 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 16px;
+}
+
+p{
+    color:blueviolet;
+    font-style: italic;
+    font-size: larger;
+    text-align: center;
+  }  
+
+  h1{
+    text-align: center;
+    text-transform: initial;
+    font-size: 3rem;
+  }
+
+  h2{
+    text-align: center;
+  }
+
+  h3{
+    text-align: center;
+  }
+
+  nav{
+    text-align: center;
+    text-transform: initial;
+  }
+
+  label{
+    text-align: center;
+    text-transform: initial;
+  }
+  section{
+    text-align: center;
+    text-transform: initial;
+  }
+
+  fieldset{
+    text-align: center;
+    text-transform: initial;
+  }
+  span{
+    text-align: center;
+    font-size: 2rem;
+  }
+
+ img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+ ul {
+  text-align: center;
+  text-transform: initial;
+}
+table {
+  width: 20%; 
+  margin-left: auto;
+  margin-right: auto;
+}
